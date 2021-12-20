@@ -27,4 +27,8 @@ public class ProductService {
     public boolean addProduct(Product product) {
         return productRepository.addProduct(product);
     }
+
+    public boolean editProduct(Product editedProduct) {
+        return productRepository.editProduct(editedProduct);
+    }
 }

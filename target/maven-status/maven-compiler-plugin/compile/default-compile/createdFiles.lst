@@ -1,0 +1,5 @@
+ru/gb/spring/Launcher.class
+ru/gb/spring/controllers/ProductController.class
+ru/gb/spring/services/ProductService.class
+ru/gb/spring/models/Product.class
+ru/gb/spring/repositories/ProductRepository.class

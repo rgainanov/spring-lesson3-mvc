@@ -1,5 +1,7 @@
 package ru.gb.spring.models;
 
+import java.util.Comparator;
+
 public class Product {
     private int id;
     private String title;
